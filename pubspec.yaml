@@ -1,5 +1,5 @@
 name: log_saver_dio_interceptor
-description: "A new Flutter package project."
+description: "A Dio Interceptor that saves all requests and responses in a Database"
 version: 0.0.1
 repository: https://github.com/whitecodel/log_saver_dio_interceptor
 
