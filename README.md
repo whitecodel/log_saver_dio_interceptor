@@ -16,7 +16,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  log_saver_dio_interceptor: ^1.0.0
+  log_saver_dio_interceptor:
 ```
 
 Then run:
